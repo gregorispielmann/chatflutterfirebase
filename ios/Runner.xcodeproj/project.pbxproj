@@ -417,7 +417,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.chatFirebase;
+				PRODUCT_BUNDLE_IDENTIFIER = br.com.pixeltech.chatFirebase;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -569,7 +569,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/Flutter",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.chatFirebase;
+				PRODUCT_BUNDLE_IDENTIFIER = br.com.pixeltech.chatFirebase;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				VERSIONING_SYSTEM = "apple-generic";
 			};

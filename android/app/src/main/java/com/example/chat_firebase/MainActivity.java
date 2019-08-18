@@ -1,4 +1,4 @@
-package com.example.chat_firebase;
+package br.com.pixeltech.chat_firebase;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
